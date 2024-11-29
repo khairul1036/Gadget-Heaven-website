@@ -46,4 +46,4 @@ This project utilizes several fundamental React concepts:
 1. Clone the repository:
    ```bash
    git clone https://github.com/khairul1036/Gadget-Heaven-website.git
-   cd b10a8-gadget-heaven-khairul1036
+  
